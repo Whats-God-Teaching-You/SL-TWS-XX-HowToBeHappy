@@ -4,11 +4,11 @@
 
 ### Source info
 
-Repo: SL-TWS-XX-HowToBeHappy
-Org: Summit Life
-Series: "The Whole Story" Series
-Podcast publish date: 2025-03-06
-Podcast app: Apple
+- Repo: SL-TWS-XX-HowToBeHappy
+- Org: Summit Life
+- Series: "The Whole Story" Series
+- Podcast publish date: 2025-03-06
+- Podcast app: Apple
 
 <!-- Comment -->
 
