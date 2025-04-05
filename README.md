@@ -1,6 +1,6 @@
 
 # Eight Ways to be Happy
-### Matthew 5:1-12
+### Scripture: Matthew 5:1-12
 
 ### Source info
 
@@ -11,7 +11,7 @@
 - Podcast app: Apple
 
 <!-- Comment -->
-## Matthew 5:1-12
+### Matthew 5:1-12
 ```
 Introduction to the Sermon on the Mount
 5 Now when Jesus saw the crowds, he went up on a mountainside and sat down. His
