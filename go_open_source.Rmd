@@ -1,0 +1,260 @@
+---
+output:
+  xaringan::moon_reader:
+    self_contained: false
+    lib_dir: libs
+    nature:
+      highlightLines: true
+      highlightLanguage: R
+      countIncrementalSlides: false
+---
+
+
+```{r startup, include = FALSE, message = FALSE, warning = FALSE, cache=TRUE}
+
+```
+```{r xaringanExtra, echo=FALSE, include = FALSE}
+library(dplyr)
+# "share_again",
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "scribble", "search", "webcam", "clipboard", "fit_screen", "tachyons", "editable")) 
+# xaringanExtra::use_animate_all("slide_left")
+# xaringanExtra::use_logo(
+#   image_url = "https://en.wikipedia.org/wiki/ARCUS#/media/File:Arcus.svg",
+#   link_url = "https://www.arcusbio.com/"
+# )
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+```
+
+layout: false
+class: title-slide, inverse, middle, right, main_slide
+name: title-slide
+
+
+# "Going Open Source"
+## Consolidating thoughts, resources, & best practices
+Aaron Clark
+
+### `slides`: https://aclark02-arcus.github.io/go_open_source/
+
+
+
+---
+
+layout: false
+class: middle, center
+name: what
+
+
+You are not the first person to have done this project,
+
+But you've done it really well!
+
+---
+
+# What does "going open-source" mean?
+
+Practically:<br>
+Convert your code into a template that folks can easily pivot to meet their use case needs. There are many benefits of "going open-source", but a major one is to propel the industry forward and your code could help many adopt a centralized method for accomplishing certain tasks & workflows.
+
+--
+
+--- 
+
+# But what does it really mean?
+
+It **could** that you (or an appointed representative) would commit to maintain the code base, and potentially allow it to evolve into something different. In this role, you don't exist to serve others' needs, but you do act as a steward of future code contributions to help guide and direct the project towards its highest and best use, for the betterment of all invested.
+
+But it doesn't have to. You could throw the code out there, and decide to abandon it later. No harm, no foul.
+
+---
+
+# Perks:
+- You can get valuable external feedback, potential identify "blind spots" that you had during development
+- You could gain free* resources that help contribute towards future goals of the project
+- Putting your code out there helps you & your organization point to a high-caliber project which could be used for recruitment purposes.
+
+
+\* Not completely "free". You may need to spend a time communicating with this individual and even greater amount of time reviewing their code, troubleshooting issues, etc.
+
+---
+
+# Assurances:
+- No sharing of private data, ever
+  - Openly, we leverage publicly available data, dummy data, or simulated data
+- You manage invitations to outside collaborators
+	- You as a GitHub Org & Admin can control who wishes to contribute code to the repository.
+- No compromising code
+	- (1) You can set branch protection rules to dictate when code can be merged
+	- (2) As such, only vetted code (from trusted authors) will be contributed to the project, as mentioned above
+	- (3) You can always revert changes - the beauty of version control!
+	- More on this later!
+
+---
+
+# Where to host the code:
+- GCP-Service International could create their own Public GitHub page
+- Small private collaboration space between GCP & a few other orgs
+  - Either on GCPs GitHub, or a neutral GitHub
+- Pharma open-source incubators
+	- [pharmaverse](https://github.com/pharmaverse)
+	- [openpharma](https://github.com/openpharma)
+	- [Open Source In Pharma](https://github.com/opensourceinpharma)... previously r/Pharma
+	- [Phuse](https://github.com/phuse-org)
+	- [R Consortium](https://github.com/RConsortium)
+	
+**Note**: there are benefits from working from a perceived "neutral host" location. Namely, individual contributors "feel better" about contributing to something that appears to benefit the industry, than benefiting a particular for-profit company.
+
+
+---
+
+# Initial collaboration questions:
+
+- Where are you at in development?
+	- Experimental
+	- stable
+	- sun-setting
+	
+--
+
+- How much time do you want to put into this project at this stage?
+
+--
+
+- How many contributors do you already have? How many resources (time & energy) do we all have? Be realistic
+
+
+---
+
+# Code Quality guardrails, templates, & guides:
+Collaboration guide: https://devguide.ropensci.org/maintenance_collaboration.html
+
+{gt} has a great guide for contributors:
+https://github.com/rstudio/gt/blob/master/.github/CONTRIBUTING.md
+---
+
+## First time contributors
+
+Great blog post by pharmaverse organizers:
+
+https://pharmaverse.github.io/blog/posts/2024-03-11_tips_for__first_.../tips_for__first__time__contributors.html
+
+---
+
+# Code Review Principles
+https://code-review.tidyverse.org/
+
+### Examples:
+- PR checklist:
+  - manage expectations about what a "good PR" looks like. Saves yourself some time coaching new contributors
+  - example: [{riskassessment} wiki](https://github.com/pharmaR/riskassessment/wiki/Developer-Pull-Request-workflows)
+
+- PR review schedule:
+  - Reviewing code can be hard / laborious. Therefore, it's nice to have a core team of partners take shifts reviewing code, to share the load. Or if you want to review all PRs, someone a core team member could pre-screen it for you.
+  - example: [{riskassessment} wiki](https://github.com/pharmaR/riskassessment/wiki/Developer-PR-Review-Scheduling)
+
+
+---
+
+# Automation through GitHub
+
+**GitHub Actions**
+- R CMD Check
+- `{shinytest2}` tests
+- Build a `{pkgdown}` site for documentation
+- Deploy a demo app to shinyapps.io
+- Lintr
+- Style Guides
+
+**GitHub Projects**
+- Stay organized with issues, milestones, etc.
+- Example: [{tidyCDISC}](https://github.com/orgs/Biogen-Inc/projects/1) has a public one, but it's old so all the tasks are complete.
+---
+
+# Project planning (not on GitHub)
+
+Do it the old fashioned way & put it in ink:
+- Project roles
+- Motivation
+- Aims
+- Anti-aims
+- Proposal
+- Communications
+- Resources
+
+### Template:
+https://tinyurl.com/os-project-planning
+
+
+---
+
+# Potential OS fears
+
+- "As a maintainer, I am now a slave to the community."
+  - This is `FALSE`. You don't live to serve them. You already served them by sharing code. They now how an opportunity to engage with that code experiment. We can manage expectations in the `README` & contributing guidelines and code of conduct file. You can point to these things and say: "we don't do that here".
+  - Though not ideal, it's also okay to just post your code for the world to see, and then abandon it. You still get a lot of the perks of "going open-source" but without the time commitment to maintain it. Folks can fork and run with their own version.
+
+--
+
+- "The code is going to change into something that doesn't really serve our company any more."
+  - There is the potential for that, but you can also be a gatekeeper that doesn't allow those changes to take place.
+  - If people want to go a different direction, they could just fork you code and make the edits that serve their needs
+  
+--
+
+
+
+---
+
+# Potential OS fears (cont'd)
+
+- "Someone is going to incorporate bugs."
+  - That's what unit tests are for! And CI!
+  
+--
+
+- "Will I be tied to maintaining this the rest of my life?"
+  - No. If planned appropriately, a succession plan can be organized to transfer maintenance to another stakeholder / steward. Note: that's why community engagement is important.
+
+--
+
+- "Will I get sued if someone uses my code irresponsibly"
+  - There is no precedent for that
+  - The R Validation Hub & R Consortium leaders are working on publishing a guidance for this as we speak to re-assure project owners and contributors alike.
+  
+---
+
+# Licensing
+  - I'm not really an expert licensing, but I can share my experience.
+
+
+---
+
+# In Conclusion
+
+Ask yourself: Is "going open-source" worth it to me?
+
+- YES, sign me up
+
+- Yes, but I need to setup my boundries
+
+- Maybe, but I need to hear more
+
+- I can get on board with doing a smaller private collaboration
+
+- Not right now
+
+- Other:
+
+
+
+
+
+
+
+
+
+
+
