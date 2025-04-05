@@ -14,7 +14,8 @@
 ## Matthew 5:1-12
 ```
 Introduction to the Sermon on the Mount
-5 Now when Jesus saw the crowds, he went up on a mountainside and sat down. His disciples came to him, 2 and he began to teach them.
+5 Now when Jesus saw the crowds, he went up on a mountainside and sat down. His
+disciples came to him, 2 and he began to teach them.
 
 The Beatitudes
 He said:
@@ -36,7 +37,10 @@ He said:
 10 Blessed are those who are persecuted because of righteousness,
     for theirs is the kingdom of heaven.
 
-11 “Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. 12 Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.
+11 “Blessed are you when people insult you, persecute you and falsely say all
+kinds of evil against you because of me. 12 Rejoice and be glad, because great
+is your reward in heaven, for in the same way they persecuted the prophets who
+were before you.
 ```
 
 # Notes & Quotes
@@ -47,22 +51,24 @@ Every person has asked themselves... "How can I be Happy?"
 - #1 Google autocomplete w/ phrase "How can I be..."
 
 Jesus answers this question during the Sermon on the Mount, giving 8 ways to
-achieve happiness. Blessed are the...
+achieve happiness.
 
-## Poor in spirit
+## Blessed are the...
 
-## Those who mourn
+### Poor in spirit
 
-## The meek
+### Those who mourn
 
-## Those who Hunger & thirst for righteousness
+### The meek
 
-## The merciful
+### Those who Hunger & thirst for righteousness
 
-## The pure of heart
+### The merciful
 
-## The pacemakers
+### The pure of heart
 
-## Those who are persecuted because of their righteousness
+### The pacemakers
+
+### Those who are persecuted because of their righteousness
 
 
