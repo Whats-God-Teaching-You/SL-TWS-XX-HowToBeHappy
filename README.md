@@ -59,13 +59,15 @@ they are also pretty logical, so they'll make sense.
 
 ### Poor in spirit
 
-- this one will help us understand all the other characteristics.
-- "poverty in spirit" means you don't have sufficient resources within yourself
-  to face life's challenges.
-- has less to do with being rich or poor, but whether you embrace daily
+Understanding "poverty in spirit" will help us understand all the other
+characteristics with ease.
+
+- it means you don't have sufficient resources within yourself to face 
+  life's challenges.
+- has less to do with being "rich" or "poor", but whether you embrace daily
   dependence on God for what you need.
-- petokas - people who were so dispised in society, that they were spit on. This
-  is the poor that Jesus says will inherit the kingdom.
+- "petokas" - people who were so despised in society, that they were spit on. 
+  This is the poor that Jesus says will inherit the kingdom of God.
 
 #### Parable: two men arrive at the temple to pray
 
@@ -73,37 +75,42 @@ they are also pretty logical, so they'll make sense.
   church & essentially prays to himself, thanking the Lord for his blessings.
 - the other is a tax collector, overwhelmed with his guilt. He lays face down at
   the back of the room and begs for forgiveness.
-- Jesus says the second man left the temple "right with God". Converserly, since
-  the first man's posture embodied a certain richness about his own righteousness,
-  that's what he left the temple with... no righteousness was added.
 
-- Quote: God only fills empty hands. What keeps you from being right with God is
-  your perceived moral ability. You are blinded to your need for grace. You need
-  to know & acknowledge this fact: "I can't be good enough to earn your favor".
+Jesus says the second man left the temple "right with God". Converserly, since
+the first man's posture embodied a certain richness about his own righteousness,
+that's what he left the temple with... no righteousness was added.
 
-- Understanding this truth helps us apply the principle across the broad spectrum
-  of the christian life:
-    - Those who feel capable as parents, will not experience the power of God in
-      their parenting. Your kid isn't going to get screwed up by your poor
-      parenting but rather, your kid will get screwed up by your confidence in 
-      your "good parenting".
-    - The same is true for...
-        - Our relationships
-        - Our careers
+#### God only fills empty hands
 
-- Not only does being rich in spirit keep us cut off from God's help, but it also 
-  corrupts our spirits. And this is what keeps us from being happy. How?
-    - Being rich, makes us proud and pride gives makes us distainful of others.
-    - Basically, [ride makes your life an endless cycle of comparison & competition
-    - For example, "it doesn't matter if I'm not X, as long as I'm more X than you."
-       - smarter, prettier, more wealthy, etc
-    - People who are prideful can't get along with each other - their pride is
-      always conflicted with others who are prideful. So a good measure of whether
-      or not you are prideful is if someone else's pride ticks you off. If someone
-      else thinks their something, they they think they are better than you, and
-      that grinds my gears.
-    - Competition (pride) makes us incredibly "me focused".
-        - That's why we don't post about our desperation, but our surplus
+What keeps you from being right with God is your perceived moral **ability**. You
+are blinded to your need for grace. You need to know & acknowledge this fact:
+"I can't be good enough to earn your favor".
+
+Understanding this truth helps us apply the principle across the broad spectrum
+of the christian life:
+- Those who feel capable as parents, will not experience the power of God in
+  their parenting. Your kid isn't going to get screwed up by your poor
+  parenting but rather, your kid will get screwed up by your confidence in 
+  your "good parenting".
+- The same is true for...
+    - Our relationships
+    - Our careers
+
+#### Rich In Spirit = corrupt spirit
+
+Not only does being rich in spirit keep us cut off from God's help, but it also 
+corrupts our spirits. And this is what keeps us from being happy. How?
+- Being rich, makes us proud and pride gives makes us distainful of others.
+- Basically, [ride makes your life an endless cycle of comparison & competition
+- For example, "it doesn't matter if I'm not X, as long as I'm more X than you."
+    - smarter, prettier, more wealthy, etc
+- People who are prideful can't get along with each other - their pride is
+  always conflicted with others who are prideful. So a good measure of whether
+  or not you are prideful is if someone else's pride ticks you off. If someone
+  else thinks their something, they they think they are better than you, and
+  that grinds my gears.
+- Competition (pride) makes us incredibly "me focused".
+  - That's why we don't post about our desperation, but our surplus
 
 ### Those who mourn
 
