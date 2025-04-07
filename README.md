@@ -96,12 +96,12 @@ of the christian life:
     - Our relationships
     - Our careers
 
-#### Rich In Spirit = corrupt spirit
+#### Rich In Spirit = corrupt spirit = unhappy
 
 Not only does being rich in spirit keep us cut off from God's help, but it also 
 corrupts our spirits. And this is what keeps us from being happy. How?
 - Being rich, makes us proud and pride gives makes us distainful of others.
-- Basically, [ride makes your life an endless cycle of comparison & competition
+- Basically, pride makes your life an endless cycle of comparison & competition
 - For example, "it doesn't matter if I'm not X, as long as I'm more X than you."
     - smarter, prettier, more wealthy, etc
 - People who are prideful can't get along with each other - their pride is
