@@ -55,9 +55,9 @@ achieve happiness. Just note: they are totally & utterly counter-intuitive...
 that is, they don't jive with what the world says would make you happy. BUT,
 they are also pretty logical, so they'll make sense.
 
-## Blessed are the...
+# Blessed are the...
 
-### Poor in spirit
+## Poor in spirit
 
 Understanding "poverty in spirit" will help us understand all the other
 characteristics with ease.
@@ -69,7 +69,7 @@ characteristics with ease.
 - "petokas" - people who were so despised in society, that they were spit on. 
   This is the poor that Jesus says will inherit the kingdom of God.
 
-#### Parable: two men arrive at the temple to pray
+### Parable: two men arrive at the temple to pray
 
 - one is an elite leader, with no gross immoral sin. He sits at the front of 
   church & essentially prays to himself, thanking the Lord for his blessings.
@@ -80,7 +80,7 @@ Jesus says the second man left the temple "right with God". Converserly, since
 the first man's posture embodied a certain richness about his own righteousness,
 that's what he left the temple with... no righteousness was added.
 
-#### God only fills empty hands
+### God only fills empty hands
 
 What keeps you from being right with God is your perceived moral **ability**. You
 are blinded to your need for grace. You need to know & acknowledge this fact:
@@ -96,7 +96,7 @@ of the christian life:
     - Our relationships
     - Our careers
 
-#### Rich In Spirit = corrupt spirit = unhappy
+### Rich In Spirit = corrupt spirit = unhappy
 
 Not only does being rich in spirit keep us cut off from God's help, but it also 
 corrupts our spirits. And this is what keeps us from being happy. How?
@@ -112,18 +112,18 @@ corrupts our spirits. And this is what keeps us from being happy. How?
 - Competition (pride) makes us incredibly "me focused".
   - That's why we don't post about our desperation, but our surplus
 
-### Those who mourn
+## Those who mourn
 
-### The meek
+## The meek
 
-### Those who Hunger & thirst for righteousness
+## Those who Hunger & thirst for righteousness
 
-### The merciful
+## The merciful
 
-### The pure of heart
+## The pure of heart
 
-### The pacemakers
+## The pacemakers
 
-### Those who are persecuted because of their righteousness
+## Those who are persecuted because of their righteousness
 
 
