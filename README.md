@@ -112,11 +112,56 @@ corrupts our spirits. And this is what keeps us from being happy. How?
 - Competition (pride) makes us incredibly "me focused".
   - That's why we don't post about our desperation, but our surplus
 
+Makes you ungrateful. You feels as though someone always owes you something.
+Instead, you should ask the Lord, "Why me? Why the smallest man from the smallest
+tribe?"
+
+
+
 ## Those who mourn
+
+A willingness to enter the pain of others - or being "relationally connected" to
+others. Jesus' most famous parable - the good samaritan - provides the perfect
+example of this. The Samaritan entered into the pain of someone else (who was
+robbed and beaten) on the side of the road, and took care of him. The longer we
+live, we generally gravitate towards becoming more isolated becauses relationships
+are messy and take a lot of work. Even attending small group. It's hard to share
+problems your having in your marriage for example. "I'd rather not." People just
+want a quiet life with with their cars, house, and routine. Jesus says that
+you'll never become happy that way. Blessed are the...
+
+- foster parents
+- involved in ministries to the widow, the prisoner, the unwed mothers, the high
+  school dropout.
+- sponsor compassion kids
+- go overseas on missions trips
+- identify with a community that is not your own
+
 
 ## The meek
 
+Meekness is taking 2nd place over 1st place whenever you can. It means using
+your power & position to serve others and not yourself. Jesus, the Lord & master
+of the universe - washes the disciples feet. When you humble yourself, God begins
+to elevate / exalt you.
+
+Let's say you are watching your kid as school. You see him split his lunch in half
+and give it to another kid who never has his own lunch or may not even eat any meals
+at home. How does that make you feel? You feel proud! Maybe you reward them with
+30 oreos because he gave away 3. God looks at His children the same way. And you
+can't out give God.
+
+What if you consciencely took 2nd place instead of first?
+- you'd be insanely happy
+- God would shower blessings down on you in this life & the next
+
+
 ## Those who Hunger & thirst for righteousness
+
+Craving fellowship with God above everything else - peeps with those attributes will
+actually get filled. King Solomon explained that God put eternity in our hearts.
+We have a God shaped hole in our hearts, and nothing else will fit. Our souls crave
+God.
 
 ## The merciful
 
